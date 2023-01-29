@@ -1,0 +1,8 @@
+지방자치단체 업종별 인허가 데이터
+https://www.localdata.go.kr/devcenter/dataDown.do?menuNo=20001
+
+티머니 버스, 지하철 승하차인원 데이터
+https://www.t-money.co.kr/ncs/pct/ugd/ReadTrcrStstList.dev
+
+국민건강보험공단 건강검진 데이터
+https://www.data.go.kr/data/15007122/fileData.do
